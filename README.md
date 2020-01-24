@@ -1,2 +1,2 @@
 # serverless-deploy-pipeline
-deploy pipeline for serverless apps
+deploy pipeline for serverless apps on AWS using ReactJS
